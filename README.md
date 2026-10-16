@@ -7,3 +7,4 @@ I tested it and I like the movements and you can get to all the platforms you ne
 It's super easy to get to the end.
 Next time I want to add different levels, a parallax backgorund, collectibles, and music. Also maybe
 an opening and closing screen.
+Itch.io link: https://cherie-alt.itch.io/jumpstart-platformer-game
